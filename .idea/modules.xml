@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GRP10.iml" filepath="$PROJECT_DIR$/.idea/modules/GRP10.iml" group="GRP10" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GRP10-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GRP10-app.iml" group="GRP10/app" />
+      <module fileurl="file://$PROJECT_DIR$/Memento.iml" filepath="$PROJECT_DIR$/Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
